@@ -11,9 +11,9 @@
  
  ***Blackjack:*** a common blackjack game. Program consists of 2 classes: Card and Deck. Card class is a common Card with it's own Rank and Suit. Deck represents array of 52 Cards each with different set of Suit and Rank. Deck gets filled with the Cards at the start of the game and shuffled by swapping each Card with another random Card in the Deck.
  
- ***Decimal to binary:*** a program that converts decimal number into binary using recursion. Also includes some manipulations with the output stream for a better perception of the binary number.
+ ***Decimal number container class:*** a self-written container class for double-precision floating point numbers which stores them as separate integer and fractional parts in integer representation and the number of digits after the decimal separator.
  
- ***Fixed point number container class:*** a self-written container class for fixed point number with 2 digits after decimal.
+ ***Decimal to binary:*** a program that converts decimal number into binary using recursion. Also includes some manipulations with the output stream for a better perception of the binary number.
  
  ***Higher-lower:*** basic "Higher or Lower" guessing game.
  

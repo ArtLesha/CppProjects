@@ -6,7 +6,7 @@ decimal.exe: $(OBJS)
 	g++ -o decimal.exe $(OBJS)
 
 main.o: Decimal.hpp input.hpp
-FixedPoint.o: Decimal.hpp
+Decimal.o: Decimal.hpp
 input.o: input.hpp
 
 clean:

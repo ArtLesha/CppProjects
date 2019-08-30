@@ -1,7 +1,7 @@
 # C++ projects
 
 ### Hey, these are my projects written in C++ language, with which I want to demonstrate my knowledge and skills as a developer.
- During the design of these programs, basic and advanced language concepts, object-oriented programming, some features of modern standards (C++11, C++14 and C++17) and STL were used. A more precise description of each program is given below and full documentation is contained in the projects source files. *Executabless are build using Makefile's which are written for g++ compiler in Windows style*.
+ During the design of these programs, basic and advanced language concepts, object-oriented programming, some features of modern standards (C++11, C++14 and C++17) and STL were used. A more precise description of each program is given below and full documentation is contained in the projects source files. *Executables are build using Makefiles which are written for g++ compiler in Windows style*.
  
  ***Adventure text game:*** an ordinary adventure RPG-like text game. There is a Player who starts the game at level 1 with the default set of attributes. Player will meet Monsters that can be either a slime, an orc or a dragon. He can choose to run away or fight them. Fight is turn-based. If Player wins the fight, he will level up, get Monster's gold and attributes will be increased. The goal of the game is to reach level 10 with the most amount of gold.
 
